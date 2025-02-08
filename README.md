@@ -23,7 +23,7 @@ Instructions on how to run the project locally
 
 📄 Resume
 
-You can also find a link to my resume here, where you'll find more details about my experience, education, and achievements.
+You will also find my resume here, where you'll find more details about my experience, education, and achievements.
 
 💬 Get in Touch
 
